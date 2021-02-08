@@ -32,7 +32,7 @@
     "core-elements": "0.0.37",
     "highlight.js": "^9.18.3",
     "hljs": "^6.2.3",
-    "marked": "^1.1.1",
+    "marked": "^2.0.0",
     "netlify-db": "0.0.2",
     "vue": "^2.6.12",
     "vue-hot-reload-api": "^2.3.4",
